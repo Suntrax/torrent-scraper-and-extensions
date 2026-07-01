@@ -1,1 +1,1 @@
-﻿# magnet url retriever
+# AnimeClient to test tensei extensions
